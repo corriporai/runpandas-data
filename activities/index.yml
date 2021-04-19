@@ -1,0 +1,19 @@
+- path: 'polarm400.tcx'
+  description: |
+      Synced from watch to Polar Flow Android, then to Polar Flow web service. Then exported as .tcx.
+  sport: 'running'
+  file_type: 'TCX'
+  recording_device: 'Polar M400'
+  sensors:
+    - name: 'Polar H7 Heart Rate Sensor'
+      data_types:
+        - 'heartrate'
+  included_data:
+    - 'latitude'
+    - 'longitude'
+    - 'elevation'
+    - 'heartrate'
+    - 'cadence'
+    - 'distance'
+  laps: 2
+  sessions: 1
