@@ -1,7 +1,6 @@
 - path: 'polarm400.tcx'
   description: |
       Synced from watch to Polar Flow Android, then to Polar Flow web service. Then exported as .tcx.
-  sport: 'running'
   file_type: 'TCX'
   recording_device: 'Polar M400'
   sensors:
