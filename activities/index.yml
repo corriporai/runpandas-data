@@ -16,3 +16,66 @@
     - 'distance'
   laps: 2
   sessions: 1
+- path: 'Garmin_Fenix_6S_Pro-Running.fit'
+  description: |
+      Synced from watch Garmin Fenix 6S
+  file_type: 'FIT'
+  recording_device: 'Garmin Fenix 6S Pro'
+  sensors:
+    - name: 'Garmin heartrate'
+      data_types:
+        - 'heartrate'
+    - name: 'Garmin temperature'
+      data_types:
+        - 'temperature'
+  included_data:
+    - 'latitude'
+    - 'longitude'
+    - 'elevation'
+    - 'heartrate'
+    - 'cadence'
+    - 'distance'
+    - 'temperature'
+  laps: 1
+  sessions: 1
+- path: 'Garmin_Fenix2_running_with_hrm.fit'
+  description: |
+      Synced from watch Garmin Fenix 2
+  file_type: 'FIT'
+  recording_device: 'Garmin Fenix 2'
+  sensors:
+    - name: 'Garmin heartrate'
+      data_types:
+        - 'heartrate'
+    - name: 'Garmin temperature'
+      data_types:
+        - 'temperature'
+  included_data:
+    - 'latitude'
+    - 'longitude'
+    - 'elevation'
+    - 'heartrate'
+    - 'speed'
+    - 'cadence'
+    - 'distance'
+    - 'temperature'
+  laps: 1
+  sessions: 1
+- path: 'Garmin_Forerunner_910XT-Running.fit'
+  description: |
+      Synced from watch Garmin Forerunner 910 XT
+  file_type: 'FIT'
+  recording_device: 'Garmin Forerunner 910XT'
+  sensors:
+    - name: 'Garmin heartrate'
+      data_types:
+        - 'heartrate'
+  included_data:
+    - 'latitude'
+    - 'longitude'
+    - 'elevation'
+    - 'heartrate'
+    - 'speed'
+    - 'distance'
+  laps: 10
+  sessions: 1
