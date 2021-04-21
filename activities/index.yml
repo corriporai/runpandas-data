@@ -1,5 +1,5 @@
 - path: 'polarm400.tcx'
-  description: |
+  summary: |
       Synced from watch to Polar Flow Android, then to Polar Flow web service. Then exported as .tcx.
   file_type: 'TCX'
   recording_device: 'Polar M400'
@@ -17,7 +17,7 @@
   laps: 2
   sessions: 1
 - path: 'Garmin_Fenix_6S_Pro-Running.fit'
-  description: |
+  summary: |
       Synced from watch Garmin Fenix 6S
   file_type: 'FIT'
   recording_device: 'Garmin Fenix 6S Pro'
@@ -39,7 +39,7 @@
   laps: 1
   sessions: 1
 - path: 'Garmin_Fenix2_running_with_hrm.fit'
-  description: |
+  summary: |
       Synced from watch Garmin Fenix 2
   file_type: 'FIT'
   recording_device: 'Garmin Fenix 2'
@@ -62,7 +62,7 @@
   laps: 1
   sessions: 1
 - path: 'Garmin_Forerunner_910XT-Running.fit'
-  description: |
+  summary: |
       Synced from watch Garmin Forerunner 910 XT
   file_type: 'FIT'
   recording_device: 'Garmin Forerunner 910XT'
