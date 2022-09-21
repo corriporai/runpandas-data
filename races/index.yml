@@ -9,10 +9,9 @@
     - 'bib'
     - 'firstname'
     - 'lastname'
-    - '21k'
-    - '42k'
     - 'category'
-    - 'guntime'
+    - 'grosstime'
+    - 'nettime'
   editions:
     - '2021'
     - '2019'
