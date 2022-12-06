@@ -33,3 +33,36 @@
     - '2004'
     - '2003'
   sessions: 19
+- path: 'berlin_marathon'
+  summary: |
+      Berlin Marathon Results from 2022.
+  run_type: 'marathon'
+  file_type: 'csv'
+  country: 'DE'
+  included_data:
+    - 'position'
+    - 'position_gender'
+    - 'country'
+    - 'gender'
+    - 'division'
+    - 'bib'
+    - 'firstname'
+    - 'lastname'
+    - 'club'
+    - 'starttime'
+    - 'start_raw_time'
+    - '5K_time'
+    - '10K_time'
+    - '15K_time'
+    - '20K_time'
+    - 'half_time'
+    - '25K_time'
+    - '30K_time'
+    - '35K_time'
+    - '40K_time'
+    - 'category'
+    - 'grosstime'
+    - 'nettime'
+  editions:
+    - '2022'
+  sessions: 1
